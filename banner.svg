@@ -48,7 +48,7 @@
   <!-- Tagline -->
   <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
     font-size="28" font-family="Segoe UI, sans-serif" fill="white" opacity="0.85">
-    MERN Stack Developer | SEO Enthusiast | Creative Learner
+    Web Developer | Frontend Developer | MERN Stack Specialist
   </text>
 
   <!-- Shimmer overlay -->
@@ -57,3 +57,4 @@
     Mobarak Hossain Razu
   </text>
 </svg>
+
